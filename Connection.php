@@ -1,7 +1,7 @@
 <?php
 namespace xezzus\yii\redis;
 
-class Connect {
+class Connection {
 
   public function test(){
     return 'test';
