@@ -33,7 +33,6 @@
     },
     "extra": {
         "branch-alias": {
-            "master": "master"
         },
         "asset-installer-paths": {
             "bower-asset-library": "vendor/yiisoft/yii2-redis"
