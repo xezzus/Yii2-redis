@@ -23,6 +23,8 @@
         "source": "https://github.com/xezzus/Yii2-redis"
     },
     "require": {
+        "php": ">=5.4.0",
+        "redis": ">=2.2.7",
         "yiisoft/yii2": "2.0.*"
     },
     "require-dev": {
