@@ -3,7 +3,7 @@
     "description": "The connect to data base Redis.",
     "type": "yii2-extension",
     "keywords": [
-        "yii",
+        "yii2",
         "extension",
         "redis",
         "connect"
