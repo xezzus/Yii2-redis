@@ -1,0 +1,42 @@
+{
+    "name": "xezzus/yii2-redis",
+    "description": "The connect to data base Redis.",
+    "type": "yii2-extension",
+    "keywords": [
+        "yii",
+        "extension",
+        "redis",
+        "connect"
+    ],
+    "homepage": "https://github.com/xezzus/Yii2-redis",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Buturlakin Andrey",
+            "email": "xezzus@gmail.com",
+            "homepage": "https://github.com/xezzus",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/xezzus/Yii2-redis/issues",
+        "source": "https://github.com/xezzus/Yii2-redis"
+    },
+    "require": {
+        "yiisoft/yii2": "2.0.*"
+    },
+    "require-dev": {
+    },
+    "autoload": {
+        "psr-4": {
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "master"
+        },
+        "asset-installer-paths": {
+            "bower-asset-library": "vendor/yiisoft/yii2-redis"
+        }
+    }
+}
