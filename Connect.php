@@ -1,5 +1,5 @@
 <?php
-namespace yii\redis;
+namespace xezzus\yii\redis;
 
 class Connect {
 
